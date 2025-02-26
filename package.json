@@ -1,0 +1,19 @@
+{
+  "name": "week12.2_advanced_ts_apis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -b",
+    "dev": "tsc -b && node /home/shatadal/WebstormProjects/COHORT2/WEEK12.2_ADVANCED_TS_APIS/dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^5.0.3",
+    "express": "^5.1.0",
+    "typescript": "^5.8.3",
+    "zod": "^3.25.67"
+  }
+}
